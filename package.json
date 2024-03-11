@@ -1,0 +1,21 @@
+{
+  "name": "hcon",
+  "displayName": "hcon",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "hcon",
+        "uiTheme": "hc-black",
+        "path": "./themes/hcon-color-theme.json"
+      }
+    ]
+  }
+}
