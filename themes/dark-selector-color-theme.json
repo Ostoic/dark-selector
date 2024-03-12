@@ -18,7 +18,8 @@
 		"focusBorder": "#ff4800",
 		"list.focusHighlightForeground": "#ff6326",
 		"list.focusOutline": "#ff6326",
-		"editor.selectionBackground": "#FFFFFF",
+		"editor.selectionBackground": "#ff632600",
+		"editor.selectionForeground": "#ff6326",
 		"editor.selectionHighlightBorder": "#ff6326",
 		"editor.lineHighlightBorder": "#ff6326",
 		// Git ignored module QoL
