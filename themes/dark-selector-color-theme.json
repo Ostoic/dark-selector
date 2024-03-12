@@ -9,8 +9,6 @@
 		"editorIndentGuide.activeBackground1": "#FFFFFF",
 		"sideBarTitle.foreground": "#FFFFFF",
 		"selection.background": "#008000",
-		"editor.selectionBackground": "#ff31a9",
-		"editor.selectionForeground": "#ff31a9",
 		"statusBarItem.remoteBackground": "#1F1F1F",
 		"ports.iconRunningProcessForeground": "#FFFFFF",
 		"editorWhitespace.foreground": "#7c7c7c",
@@ -20,6 +18,8 @@
 		"focusBorder": "#ff31a9",
 		"list.focusHighlightForeground": "#ff31a9",
 		"list.focusOutline": "#ff31a9",
+		"editor.selectionBackground": "#ff31a9",
+		"editor.selectionForeground": "#000000",
 		"editor.lineHighlightBorder": "#ff31a9",
 		// Git ignored module QoL
 		"gitDecoration.ignoredResourceForeground": "#8c8c8c76",
