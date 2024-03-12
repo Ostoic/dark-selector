@@ -19,7 +19,9 @@
 		"focusBorder": "#ff31a9",
 		"list.focusHighlightForeground": "#ff31a9",
 		"list.focusOutline": "#ff31a9",
-		"editor.lineHighlightBorder": "#ff31a9"
+		"editor.lineHighlightBorder": "#ff31a9",
+		// Git ignored module QoL
+		"gitDecoration.ignoredResourceForeground": "#8c8c8c76"
 	},
 	"tokenColors": [
 		{
