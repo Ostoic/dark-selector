@@ -14,7 +14,12 @@
         "ports.iconRunningProcessForeground": "#FFFFFF",
         "editorWhitespace.foreground": "#7c7c7c",
         "actionBar.toggledBackground": "#383a49",
-        // "focusBorder": "#5de9ff",
+        // Below contains focus/selector/highlight related colors. These are the UI elements whose 
+        // high-contrast coloring results in the particular look I am seeking.
+        "focusBorder": "#00d0ff",
+        "list.focusHighlightForeground": "#00d0ff",
+        "list.focusOutline": "#00d0ff",
+        "editor.lineHighlightBorder": "#00d0ff"
     },
     "tokenColors": [
         {
