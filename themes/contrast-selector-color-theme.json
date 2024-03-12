@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "High Contrast Selector",
+	"name": "Dark Selector High Contrast Theme",
 	"colors": {
 		"editor.background": "#1F1F1F",
 		"editor.foreground": "#FFFFFF",

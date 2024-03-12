@@ -1,6 +1,6 @@
 {
-  "name": "contrast-selector",
-  "displayName": "contrast-selector",
+  "name": "dark-selector",
+  "displayName": "dark-selector",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "contrast-selector",
+        "label": "dark-selector",
         "uiTheme": "hc-black",
-        "path": "./themes/contrast-selector-color-theme.json"
+        "path": "./themes/dark-selector-color-theme.json"
       }
     ]
   }
