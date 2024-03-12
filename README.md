@@ -1,4 +1,4 @@
-# hcon README
+# contrast-selector README
 
 ## Working with Markdown
 

@@ -1,6 +1,6 @@
 {
-  "name": "hcon",
-  "displayName": "hcon",
+  "name": "contrast-selector",
+  "displayName": "contrast-selector",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "hcon",
+        "label": "contrast-selector",
         "uiTheme": "hc-black",
-        "path": "./themes/hcon-color-theme.json"
+        "path": "./themes/contrast-selector-color-theme.json"
       }
     ]
   }
