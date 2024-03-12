@@ -1,4 +1,4 @@
-# dark-selector High-Contrast Selector Theme README
+# dark-selector: High Contrast Selector Theme
 
 ## Installation
 1. Open up the extensions tab in VSCode.
